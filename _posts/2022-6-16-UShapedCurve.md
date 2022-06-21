@@ -1,3 +1,7 @@
+---
+layout: post
+title: Beware of the U Shaped Curve
+---
 # U shape curve in action
 
 The following are links to examples of what I will be talking about. The titles are sometimes mine, but pulled from the conclusions. 
