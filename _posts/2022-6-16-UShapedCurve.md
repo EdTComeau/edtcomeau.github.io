@@ -53,7 +53,7 @@ The problem here is news media seems to eat these articles up and make bold clai
 
 I try to look out for this U shaped curve any time I see an exciting correlation. These claims often reinforce some behavior of mine, so it is especially tricky to catch.
 
-Extras
+# Extras
 [This article actually claims that eating chocolate snacks results in reduced diabetes... Its the other way around](https://pubmed.ncbi.nlm.nih.gov/19818197/)
 
 [Not a U shaped curve, but it's a probably causation correlation issue all the same... People who moderately brush their teeth live longer!](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124861/)
