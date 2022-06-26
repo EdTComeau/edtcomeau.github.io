@@ -8,7 +8,7 @@ I have a hungry baby who needs a specific type of hypoallergenic formula. Instea
 
 # Setup
 
-I originally wnated to use Pythons Beautiful soup, but it just grabs HTML. I learned quickly that I need to interact with javascript and therefore Selenium is the ideal package for my use.
+I originally wanted to use Pythons Beautiful soup, but it just grabs HTML. I learned quickly that I need to interact with javascript and therefore Selenium is the ideal package for my use.
 Selenium is pretty easy to [setup](https://www.selenium.dev/documentation/webdriver/getting_started/) into python iusing pip.
 Selenium needs a web driver, I chose [gecodriver](https://github.com/mozilla/geckodriver/releases).
 
@@ -16,12 +16,9 @@ I DuckDuckGo'ed "Selenium example code" (Kidding I googled it). I just had to sw
 '''
 from selenium import webdriver
 driver = webdriver.Firefox()
-# implicit wait for 5 seconds
 driver.implicitly_wait(5)
-# maximize with maximize_window()
 driver.maximize_window()
 driver.get("https://www.tutorialspoint.com/about/about_careers.htm")
-# identify element with title attribute and click()
 l=driver.find_element_by_xpath("//a[@title='Tutorialspoint']")
 l.click()
 print("Current page title: " + driver.title)
