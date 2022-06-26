@@ -13,6 +13,7 @@ Selenium is pretty easy to [setup](https://www.selenium.dev/documentation/webdri
 Selenium needs a web driver, I chose [gecodriver](https://github.com/mozilla/geckodriver/releases).
 
 I DuckDuckGo'ed "Selenium example code" (Kidding I googled it). I just had to switch out web drivers and it worked!
+
 '''
 from selenium import webdriver
 driver = webdriver.Firefox()
@@ -42,4 +43,4 @@ Selenium, is fun.
 I remember back in college a friend of mine made a script that checks for when grades are posted and sends him an email, that made him a programming god to me. He still is, but now selenium makes me feel like a programming god too. 
 I dont do web stuff, making this blog is the last time I thought about HTML/CSS/JS, so this was fun to see how much there is out there that I don't YET know. 
 
-![tabs](C:\Users\edcom\edtcomeau.github.io\images\FinalProdFormula.png)
+![tabs](\images\FinalProdFormula.png)
