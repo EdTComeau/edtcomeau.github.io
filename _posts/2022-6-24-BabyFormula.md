@@ -14,7 +14,6 @@ Selenium needs a web driver, I chose [gecodriver](https://github.com/mozilla/gec
 
 I DuckDuckGo'ed "Selenium example code" (Kidding I googled it). I just had to switch out web drivers and it worked!
 
-<<<<<<< HEAD
     from selenium import webdriver
 
     driver = webdriver.Firefox()
@@ -26,19 +25,6 @@ I DuckDuckGo'ed "Selenium example code" (Kidding I googled it). I just had to sw
     print("Current page title: " + driver.title)
     driver.quit()
 
-=======
-'''
-from selenium import webdriver
-driver = webdriver.Firefox()
-driver.implicitly_wait(5)
-driver.maximize_window()
-driver.get("https://www.tutorialspoint.com/about/about_careers.htm")
-l=driver.find_element_by_xpath("//a[@title='Tutorialspoint']")
-l.click()
-print("Current page title: " + driver.title)
-driver.quit()
-'''
->>>>>>> ed39e38755028819b6a4b71b2eb849ae07f2fa2d
 
 # Lessons learned
 
