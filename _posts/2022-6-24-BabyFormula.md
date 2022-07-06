@@ -2,7 +2,6 @@
 layout: post
 title: Ravioli Ravioli Give Me The Hypoallergenic Formuoli
 ---
-# Problem
 
 I have a hungry baby who needs a specific type of hypoallergenic formula. Instead of spending *MINUTES* per day looking for formula on every store website, I decided to spend *HOURS* creating a python code to do all the searching for me.
 

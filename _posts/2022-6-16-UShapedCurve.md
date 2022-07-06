@@ -2,6 +2,9 @@
 layout: post
 title: Beware of the U Shaped Curve
 ---
+
+A cautionary tale about U-shaped curves in non-Randomized control trial studies.
+
 # U shape curve in action
 
 The following are links to examples of what I will be talking about. The titles are sometimes mine, but pulled from the conclusions. 
