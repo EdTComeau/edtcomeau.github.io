@@ -116,14 +116,15 @@ If I take my new reinforced belief that spanking works and dampen it with the id
 ### feedback loops
 
 A feedback loop could be as simple as:
-I have a unwanted trait, X, that I view as positive.
+I have a bad trait, X, that I accidentally view as positive.
 I encourage X in my child.
 Together, my child and I become more X together.
 
 This could be as complicated as:
-Correcting behavior X makes things worse befre the get better.
+Correcting behavior X makes things worse before the get better.
 I try to correct X but when I see a negative effect I double down.
 This has a cascading effect of more negative effects due to the "doubling down"
+
 (A Right Half Plane Zero)[https://www.ti.com/seclit/ml/slup084/slup084.pdf]
 
 I think risk of feedback loops like this can be avoided by:
