@@ -87,9 +87,13 @@ This book has been around long enough that the claim "parents find this informat
 I think the ideas in this book are worth talking about, but even if that weren't the case, this book presents its ideas in a very thorough and memorable way. 
 Both of the authors are former teachers, and so was Dr. Haim Ginott. 
 So it should come as no surprise that ideas are discussed, drawn in comics, acted out in plays, and written down in worksheets. 
-I am going to attempt to summarize the ideas, but this book is basically those ideas with plenty of different ways to commit them to memory.
+This book is basically the above ideas with plenty of different ways to commit them to memory.
 
-It brings up the question of whether an idea becomes popular because it is "Correct" or because it "feels correct".
+This book reminded me a lot of "How to Win Friends and Influence People" - Dale Carnegie in the way that it reads as a sales pitch for ideas. 
+Very clearly hypothetical examples of bad parent-child conversations followed by the line, "Now can you think of how Martha SHOULD have talked to little Jimmie using our new strategy?"
+They are both very successful books, so while I meant for this to be a criticizm, maybe it is the best way to convince a reader your ideas are worth adopting. 
+
+I wonder whether the ideas in this book are liked so much because they are "Correct" or because they "feel correct".
 This book has enough positive reviews from child phsycologists, I am going to assume the best case for a book written by two non-child phsycologists, which is it is a 50/50 mixture of "Correct" and "feels correct".
 
 ## On child autonomy
