@@ -113,7 +113,8 @@ Even once aware of them, it would take a really strong conviction of mine to dec
 I have to pick my battles.
 I haven't seen enough convincing evidence to suggest 1980's social norms (more freedom/less hands-on) was healthier than todays (More hands-on/less freedom) so I will most likely be more of a helicopter parent than my parents were to me. 
 
-> Maybe a happy medium would be relishing the closer ties between parents and children now, but also recognizing that part of being a good, caring parent is letting children discover things on their own. -(Slate)[http://www.slate.com/articles/life/family/2014/08/slate_childhood_survey_results_kids_today_have_a_lot_less_freedom_than_their.]
+> Maybe a happy medium would be relishing the closer ties between parents and children now, but also recognizing that part of being a good, caring parent is letting children discover things on their own. 
+(Slate)[http://www.slate.com/articles/life/family/2014/08/slate_childhood_survey_results_kids_today_have_a_lot_less_freedom_than_their.]
 
 
 
