@@ -81,7 +81,7 @@ My current stance is that parenting is very important, but there are variety of 
 
 ## How do I avoid falling into feedback traps
 
-Parenting is dynamic, where a parent responds to feedback as they go and adjusts.
+Parenting is dynamic, where a parent responds to feedback as they go and adjusts accordingly.
 
 I have read a lot of parenting books.
 I have a lot of baysean priors going into parenting, beliefs that I hold some confidence in.
@@ -93,7 +93,7 @@ Because I am mostly working with feedback, I need to look out for false feedback
 
 An example of false positive reinforcement would be feeding my child cake every day. 
 If I give my child cake every day, he will positively reinforce my cake-giving with smiles and happiness. 
-I will continue this reinforced action until my health problems start kicking in. 
+I will continue this reinforced action until his health problems start kicking in. 
 This type of feedback is very dangerous in a dynamic system such as parenting. 
 
 I can avoid the risk of false feedback with
