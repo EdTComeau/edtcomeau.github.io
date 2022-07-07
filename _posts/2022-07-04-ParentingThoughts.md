@@ -151,7 +151,7 @@ I think risk of feedback loops like this can be avoided by:
 - Getting outside perspective from others
 - Allowing things to get worse before they get better
 
-### Bettering myself
+#### Bettering myself
 This is self-explanatory, and something I probably don't have to dive into the benefits of. 
 The better I am at avoiding bad behaviors, the better I will be at identifying them in my child. 
 
