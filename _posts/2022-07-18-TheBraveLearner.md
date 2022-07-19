@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: The Brave Learner
+title: Book Review- The Brave Learner
 ---
 
 Every now and then I am reminded of how bad the US school systems can be for a child.
@@ -110,12 +110,13 @@ Reasons to homeschool
 - You can afford it
 - Homeschooling sounds exciting to you
 - Homeschooling works for your child
+- You have time to spare
 
 Reasons NOT to homeschool
 - A lot of added responsibilities as parent
 - A lot of added stress
 - Might not be right for every child
-- You need to socialize your child more
+- You really need to socialize your child more
 
 There was one study that found that parents "Heavily involved" in their children’s education end up better off than their homeschooled counterparts. 
 This may be the alternative here. 
@@ -125,7 +126,7 @@ But I must worry that "heavily involved" may encompass all the parents that put 
 All these ideas sound like healthy ways to approach teaching a child.
 This book doesn't talk too much about a curriculum or standardized tests. 
 
-I know part of homeschooling is to avoid these standardized tests, but the problem is I would want to know how I am doing. 
+I know part of homeschooling is to avoid these standardized tests, but the problem is I would want to know how I am doing as a teacher. 
 I am sure this is a solved problem in the Homeschooling community, there are probably curriculum and tests that can be used to see where you are at short of waiting for the college admissions tests. 
 Julie doesn't talk about these much, but I would want to use them to at least make sure I was on pace and not missing anything. 
 Even though tests come with their stressors, you only get one chance at your child’s education, so no feedback on where you stand could be a huge mistake that is worth some stress. 
