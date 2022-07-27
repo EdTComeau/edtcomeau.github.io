@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lesson 1 Ints
+title: Running Sum of 1d Array
 ---
 
-This is Part 1 of my attempt to do leetcode. here we go
+Probably the easiest leetcode question out there. Let's start with an easy win.
 
 # Problem Statement
 1480. Running Sum of 1d Array
@@ -31,8 +31,8 @@ Output: [3,4,6,16,17]
 
 Constraints:
 
-    1 <= nums.length <= 1000
-    -10^6 <= nums[i] <= 10^6
+1 <= nums.length <= 1000
+-10^6 <= nums[i] <= 10^6
 
 # Planning
 Welp. This is going to need a loop. I really racked my brain but I cannot think of any way to get around the O(n) time complexity here. 
