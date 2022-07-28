@@ -16,7 +16,7 @@ Peggy- "hahaha of course, probably, why don't you go on in there and meet the bo
 
 
 # Day 1
-You push open the giant doors to a giant room filled with mostly empty space except for a giant throne in the front. Evil henchmen are walking about. You approach Mr. E, on his throne.
+*You push open the giant doors to a giant room filled with mostly empty space except for a giant throne in the front. Evil henchmen are walking about. You approach Mr. E, on his throne.*
 
 You- "Nice to meet you, I heard I am going to be your right hand man."
 
