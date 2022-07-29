@@ -20,7 +20,12 @@ Peggy- "hahaha of course, probably, why don't you go on in there and meet the bo
 
 You- "Nice to meet you, I heard I am going to be your right hand man."
 
-Mr. E- "Take a seat next to me, you got here at a busy time" Motions to the other Evil henchmen "Have you got the staff?" 
+Mr. E- "Take a seat next to me, you got here at a busy time" 
+
+*Motions to the other Evil henchmen*
+
+Mr. E- "Have you got the staff?" 
+
 Evil Henchman- "we got it sir" 
 
 Mr. E- "You got that *The Staff Of Killing Bad People* I asked for"
@@ -53,9 +58,9 @@ You- "Just because Steve is good for humans doesn't mean he is good for the worl
 
 *A scientist wearing a glove gives Steve a bonk on the head with the staff.*
 
-Steve-"what was that for?"
-
 *The room grows quiet*
+
+Steve-"what was that for?"
 
 Mr. E-"Oh thank goodness that worked"
 
@@ -99,6 +104,8 @@ Steve- "Why would you say thaa *bonk*"
 
 *Not a sound in the chamber*
 
+*Steve looks angry*
+
 *Everyones exhails.*
 
 *Evil henchmen start filing out of the chamber with a comically large ray-gun that says volcano exploder on the side...*
@@ -122,6 +129,7 @@ Mr. E-"So if I told my henchmen that if *The Staff Of Killing Bad People* allows
 You-"Wouldn't it only be deciding if it does a little good, not if it was effective at saving the world"
 
 Mr. E-"Yeah, I could also instruct my henchmen to evaluate their intervention after 5 years and blow up a volcano if it didn't significantly change the world?"
+
 You murmer to yourself- "always the volcano thing."
 
 You-"Yeah, you could pick some law. Hire a henchman to devote their life to lobby for that law, but if they get the law in place and it isn't wildly considered a big improvement then they should blow up a volcano. You could technically determine if that law is good or not."
@@ -151,6 +159,7 @@ Mr E-"What if someone stole from me, an evil scientist. I have a lot of money, a
 You-"Yeah the staff wouldn't punish people for doing bad things if the world ends up a better place for it"
 
 Mr E-" Yeah, all the robin hoods out there would get a pass. That's why I keep forcing Steve to steal money from me, and then I *bonk* see if the staff kills him"
+
 You-"I'm going to take an early lunch"
 
 Mr E-"Okay, I'll tell you if it kills Steve"
