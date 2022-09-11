@@ -28,10 +28,9 @@ The piece of paper behind looks like this:
 If electrons were particles, they wouldn't look like this. There would be two clumps. The pattern you see here is the results of wave-like interference. Because of this experiment (and many others) we can assume small particles also act like waves.
 
 What do I mean by waves?
-![wave](\images\1D-Wave.gif)
+![wave](\images\1DWave.gif)
 
 I mean a wave equation, the particle doesn't actually LOOK like a wave. This is a generalized wave equation:
-images\1D-Wave.gif
 
 $$ \dfrac{\partial^2 u(x,t)}{\partial x^2} = \dfrac{1}{v^2} \dfrac{\partial^2 u(x,t)}{\partial t^2} $$
 
