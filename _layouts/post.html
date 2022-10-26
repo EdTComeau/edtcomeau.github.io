@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <article class="post">
@@ -13,7 +14,9 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include disqus.html %}
+
+  {% if site.disqus %}{% include disqus.html %}{% endif %}
+  <script id="dsq-count-scr" src="//https-edtcomeau-github-io.disqus.com/count.js" async></script>
 </article>
 
 <script type="text/x-mathjax-config">
