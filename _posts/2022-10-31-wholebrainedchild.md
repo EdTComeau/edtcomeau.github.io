@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Whole Brained Child: Book review
+title: The Whole Brained Child- Book review
 comments: true
 ---
 
