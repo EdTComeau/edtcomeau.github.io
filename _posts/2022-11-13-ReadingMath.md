@@ -109,23 +109,24 @@ To do this we can no longer use the Y' notation. We need to specify what variabl
 
 Solving these are complicated. Sometimes you get lucky and you can seperate the partial derivitives, other times you need to transform your equations into something that has already been solved. 
 
-# Sum
+## Sum
 It is important to note that this is the sum symbol:
-$$\sum\nolimits_{n=1}^{10}n\$$
+
+$$ \sum\nolimits_{n=1}^{10}n $$
 
 It just means to add up the sum from 1 to 10, so 1+2+3...+10.
 
-# Integral
+## Integral
 While it is not entirely true, it sometimes is best to think of an integral as the opposite of a derivitive. Integrals look like this:
 
-$$\int^{L}_{0}\psi^{2}dx = 1 $$
+$$ \int^{L}_{0}\psi^{2}dx = 1 $$
 
 Integrals cause ALL the problems with differential equations. Integrals dont necesarrily have one precise answer. They can be hard to solve and they introduce the infinite solutions that are present in all differential equations.
 
-# Vector stuff
+## Vector stuff
 I admittedly have a blind spot here.
 
-$$\vec{r} = L_x\hat{x} + L_y\hat{y} + L_z\hat{z}$$
+$$ \vec{r} = L_x\hat{x} + L_y\hat{y} + L_z\hat{z}$$
 
 - $\vec{vector}$ Vector lines means you are working with a vector
 - $\hat{hat}$ A hat means you have a unit vector on your hands
@@ -134,11 +135,11 @@ I recognize I told you what these are defined as but it doesn't help understand 
 
 I *hate* vector math. I cannot think of a way to describe these without getting into matrices which I am purposefully avoiding. A vector is a line in a certain direction. The degree to what "direction" can often be summarized by a unit vector. 
 
-# Anything else
+## Anything else
 If you dont recognize a character, its probably literally a greek letter. Some you may recognize like pi $\pi$. 
 
 
-## Putting it all together
+# Putting it all together
 WOW!
 
 Thats a lot we just covered. But you SHOULD now be able to read almost any math equation and kind of understand the goal.
