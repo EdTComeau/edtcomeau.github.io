@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blood Pressure
+comments: true
+---
+
 The red cross claims on their website that of the 75 million Americans with high blood pressure, 11 million go undiagnosed.
 
 [link to paper](https://jamanetwork.com/journals/jama/article-abstract/1935131)
