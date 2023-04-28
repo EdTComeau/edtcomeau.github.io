@@ -37,6 +37,7 @@ Discussing feelings isn't owed to **Friend**, and **Hurt** does not need to be c
 1) **Hurt** can state the following:
 
 -The action that made them hurt
+
 -Their emotional reaction (that they are hurt)
 
 2) **Hurt** is not allowed to blame, accuse, or judge **Friend** for the emotional reaction that **hurt** feels.
