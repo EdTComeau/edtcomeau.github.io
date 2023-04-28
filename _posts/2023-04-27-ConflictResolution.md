@@ -19,6 +19,7 @@ The game is for two players, but the rules can be scaled up for more players.
 
 Assume that conflict occurs when one party is hurt by the actions of the other. If both parties are hurt, separate the two-way-hurt game into two different games. The roles are as follows:
 Roles:
+
 **Hurt**: This is the person who feels hurt
 **Friend**: This is the person whose actions caused the hurt
 
@@ -33,6 +34,7 @@ Discussing feelings isn't owed to **Friend**, and **Hurt** does not need to be c
 ## Hurt's allowed moves
 
 1) **Hurt** can state the following:
+
 -The action that made them hurt
 -Their emotional reaction (that they are hurt)
 
@@ -44,11 +46,11 @@ Additionally, **Friend** cannot be expected to predict feelings. We all experien
 
 Negative Example 1: **hurt** says, "You hurt my feelings! That's wrong!"
 
-This breaks rule 2, we are not allowed to blame others for our emotions.
+    This breaks rule 2, we are not allowed to blame others for our emotions.
 
 Negative Example 2: **hurt** says, "you know I hate sand and you still took me to the beach? That's rude!"
 
-Unless **Hurt** had previously said "don't take me to the beach" it's unfair to expect **friend** to predict the negative response.
+    Unless **Hurt** had previously said "don't take me to the beach" it's unfair to expect **friend** to predict the negative response.
 
  3) **Hurt** is not allowed to blame, accuse, or judge **Friend's** action. 
 
@@ -57,7 +59,7 @@ The outcome of this game is independent of any judgement or blame because if som
 
 Negative Example: **Hurt** says, "You did a bad thing by commenting on my hair, you know I'm sensitive about my hair loss"
 
-This is not allowed by rule 3, we cannot judge anyone's actions. Maybe **Friend** didn't know about the sensitivity. Regardless, of whether this was a bad thing or acceptable thing, **Friend's** action needs to change. To discuss whether the action was good or bad is irrelevant, distracting, and should be avoided.
+    This is not allowed by rule 3, we cannot judge anyone's actions. Maybe **Friend** didn't know about the sensitivity. Regardless, of whether this was a bad thing or acceptable thing, **Friend's** action needs to change. To discuss whether the action was good or bad is irrelevant, distracting, and should be avoided.
 
 4) **Hurt's** hurt feelings should be avoidable.
   
@@ -65,11 +67,11 @@ The point of this game is to resolve conflict. If something is brought up that c
 
 Negative Example 1: **Hurt** says ," I don't want you to change anything, I just want to understand where you were coming from."
 
-This breaks the rule. If **Hurt** had their feelings hurt, they deserve to have that action avoided in the future. For  **Hurt** to say they don't want any change, they are saying they would allow themselves to be hurt again later. 
+    This breaks the rule. If **Hurt** had their feelings hurt, they deserve to have that action avoided in the future. For  **Hurt** to say they don't want any change, they are saying they would allow themselves to be hurt again later. 
 
 Negative Example 2: : **Hurt** says ,"I just want an apology and I will be happy."
 
-This breaks the rule. There is a whole section on apologies later, but an apology with no changed behavior means nothing, it's just words.
+    This breaks the rule. There is a whole section on apologies later, but an apology with no changed behavior means nothing, it's just words.
 
 5) **Hurt** doesn't have to play along
 
@@ -88,7 +90,7 @@ Regardless of intent or circumstances, **Friends** actions need to change to pre
 
 Negative Example: **Friend** says, "If I were in your shoes, I wouldn't be hurt"
 
-This breaks the rule. **Hurt** was still hurt by the action regardless of how anyone else would have felt in their position. 
+    This breaks the rule. **Hurt** was still hurt by the action regardless of how anyone else would have felt in their position. 
 
 3) **Friend** should not defend their actions
 
@@ -96,7 +98,7 @@ This breaks the rule. **Hurt** was still hurt by the action regardless of how an
 
 Negative Example: **Friend** says, "But I was sleepy when I said that!"
 
-**Hurt** is passing no judgement. Arguing whether **friend's** action was right or wrong is counterproductive because regardless of the intent, change needs to happen. 
+    **Hurt** is passing no judgement. Arguing whether **friend's** action was right or wrong is counterproductive because regardless of the intent, change needs to happen. 
 
 4) **Friend** doesn't have to play along.
 
@@ -113,6 +115,7 @@ Both parties must agree on a boundary to be set. Action for what should be done 
 If you can agree on a boundary you win! Otherwise everyone loses the game (and relationship).
 
 A boundary is a rule or change in action for one or both parties. Here are some qualities a boundary must have:
+
 - It should be healthy, simple, and concrete
 - The boundary must prevent **Hurt** from being hurt again
 - The boundary shouldn't be a punishment of any sort
@@ -131,6 +134,7 @@ I would love to live in a world where **hurt** could just propose a boundary and
 - preventing the action may mostly fall on **Friend**, so **Hurt** may need input on what is feasible or other options that also will prevent the action
 
 **Hurt** must decide if they are willing to negotiate the boundary. Deciding this may depend on the following questions: 
+
 - is this the first time this action has ever been brought up
 - is this action socially acceptable
 - can **Friend** discuss boundaries in good faith
