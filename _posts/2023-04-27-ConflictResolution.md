@@ -21,6 +21,7 @@ Assume that conflict occurs when one party is hurt by the actions of the other. 
 Roles:
 
 **Hurt**: This is the person who feels hurt
+
 **Friend**: This is the person whose actions caused the hurt
 
 Remember those roles, they are going to get a lot of milage in this post.
