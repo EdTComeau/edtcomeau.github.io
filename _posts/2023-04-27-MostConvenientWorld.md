@@ -1,0 +1,22 @@
+---
+layout: post
+title: the most convenient world
+comments: true
+---
+
+Parenting is tough. Does sleep training really "help my child self sooth"? Is it important to "foster independence" in our children? Are there only 5 major food allergies we need to worry about, or are there seven now. Should I preemptively give tylenol knowing my kid just got a vaccine?
+
+# What would I do in the most convenient world
+When making parenting decisions for my kid, I try to use the heuristic: " what choice would I make if I had unlimited time and resources?" That choice is almost always unreasonable. The beauty of this heuristic is it then forces me to admit to myself that I am compromising, or at least weighing my needs against my children's. Now-- taking care of yourself *is* taking care of the family and a net gain for everyone involved. It's not selfish to say you are making this calculation. But, I think ignoring the calculation is a bit dishonest.
+
+Sleep training is when you, to some degree, allow your child to cry in order for them to sleep well. I honestly feel like if I had unlimited time and resources, I would hold my baby every night until they are old enough to have a discussion and make sure they understand that I am one room away if they need *anything*. Spoiler alert, I still ended up sleep training my baby at 1yo because we could not juggle work/sleep/health with a baby that just couldn't sleep without us. I did my research and I think there _are_ benefits to sleep training, but to me it feels weird to say *I am doing it for the kid* when I just so happen to also get a huge quality of life improvement. I find it more true to say, in a perfect world I would stay up with my baby as they sleep on me... But I don't live in a perfect world and I need to sleep/work/function to take care of the family soooo, sleep training it is! It sounds cold, but I feel like it's more honest than "I am doing my child a favor by sleep training them".
+
+When it comes to how independent I want my child to be. I feel like my _unlimited time and resources_ answer would be to allow my children to _feel_ independent while also never letting them leave my sight. Anything less than that does seem like a compromise. The best decision for me and my family may be to let my kids play at the playground by themselves while I do dishes in my house a block away, but that is a compromise from watching them from the car nearby. I think it can be the right decision, but I think it should be framed as me making a compromise/tradeoff calculation instead of "I am giving my child the gift of independence".
+
+I don't want to belittle the importance of fostering independence, or promoting self soothing (In regards to sleep training). But I think they are often used to fully justify a decision when in reality they are a small variable in the balancing act between what is a perfect decision and what is actually feasible. 
+
+If you accept my premise that "the importance of fostering independence" is something people say when they really mean "we are making a decision based off what is best for our kid and what we can feasibly provide them" then you may accept my next statements. The next portion is also the opinion I most weakly hold, it just ties the thought together ...
+
+A more connected world means a more judgemental world where everyone is comparing themselves to others. Kids and their self image aren't the only thing effected by the internet, parents are too. Some parents can hire a house cleaner, work only 20 hours a week, hire a nanny during the day, so that if they want to stay up all night with their baby they can. In the same way teenage girls compare them to the Instagram influencers, parents compare themselves to the incredibly fortunate mom who never has to worry about sleep training. Everyone is pushed to these unattainable standards where parents are shamed for having their kids walk a half mile to school. This section is starting to sound a bit "kids these days", so I will end it but you get my point. 
+
+We get so much pressure to do the _unlimited time and resources_ thing even though we do not have unlimited time and resources. We are forced to either say, "welp I don't have those resources, but I'm doing the best that I can!" *OR* we say "actually what I'm doing is healthy" (i.e. I'm fostering independence, I'm giving my baby the gift of self-soothing). In my opinion the former is closer to the truth. 
