@@ -114,7 +114,7 @@ This is the present year in which I am writing. As this post will be a timeless 
 
 There are countless parenting books—perhaps too many, to be honest. Different parents hold strong views, and you would think that with increased connectivity, we would converge on a popular parenting structure. However, it feels more polarized than ever. Seeking parenting advice can be a dreadful experience.
 
-Reflecting on this history, I've come to realize that parenting has undergone significant changes. I have more in common with parents of today than I do with parents from the 1920s. Any differences that make me feel judged are often hot-button issues that elicit strong feelings, but strong feelings don't always align with important questions. This serves as a friendly reminder to be less judgmental towards others, something I will strive to do more often.
+Reflecting on this history, I've come to realize that parenting has undergone significant changes. I have more in common with parents of today than I do with parents from the 1920s. Any differences that make me feel judged are often hot-button issues that elicit strong feelings, but strong feelings don't always align with important questions. This serves as a friendly reminder to be less judgmental towards others, something I will strive to do more often: after this next section.
 
 # The Villain of This Story
 
