@@ -1,7 +1,7 @@
---
-title:The explosive child
-comments:True
---
+---
+title: The explosive child
+comments: True
+---
 
 
 
