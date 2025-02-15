@@ -3,6 +3,7 @@ layout: post
 title: Knitting a Sweater in a Burning House
 comments: true
 ---
+
 # Knitting a Sweater in a Burning House
 
 There's a phrase my wife and I use: "knitting a sweater in a burning house." It describes those moments when we find ourselves absorbed in trivial tasks while seemingly more important matters loom. The night before my wedding, I caught myself trying to reactivate an old Twitter profile for our handmade photobooth—a perfect example of this phenomenon.
