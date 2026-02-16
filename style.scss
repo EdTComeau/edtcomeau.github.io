@@ -1,14 +1,13 @@
 ---
 ---
-
 //
 // IMPORTS
 //
+@import "reset";
+@import "variables";
+@import "highlights";
+@import "svg-icons";
 
-@use "reset";
-@use "variables" as *;
-@use "highlights";
-@use "svg-icons";
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -22,9 +21,9 @@ html {
 }
 
 body {
-  background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    background-color: #ffffff;
+    font: 18px/1.4 $helvetica;
+    color: $darkGray;
 }
 
 .container {
